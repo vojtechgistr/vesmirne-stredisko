@@ -1,0 +1,317 @@
+[
+    {
+      "command": "pravidla",
+      "type": 0,
+       "embed": {
+        "title": "📜 Pravidla 📜",
+        "description": "1️⃣ Na serveru se chovejte slušně, neurážejte a respektujte ostatní členy.\n\n2️⃣ Neposílejte žádný NSFW obsah ani odkaz na něj, dané zprávy mažeme a hrozí vám kick až ban.\n\n3️⃣ Nepropagujte zde své vlastní projekty nebo discord servery, dokud jste si s naším AT nedohodli spolupráci. \n\n4️⃣ Příkazy pište pouze do kanálů, které jsou k tomu určeny.\n\n5️⃣ Respektujte náš AT a jeho rozhodnutí a rozhodně se nesnažte o členství v AT žebrat.\n\n6️⃣ Nenabádejte členy serveru k ubližování sobě či ostatním, horzí vám ban příp. report.\n\n7️⃣ V hlasových místnostech nepoužívejte voice changery a netrollte (minimálně bez souhlasu ostatních).\n\n8️⃣ Vyhýbejte se jakémukoliv spamu.\n\n9️⃣ Jakékoliv zprávy či přílohy porušující zásady EULA a Discord TOS (cheaty, viry, nevhodný obsah ...) budou smazány, rovněž vám hrozí kick až ban.\n\n🔟 Pravidla platí i v soukromých zprávách, v případě, že dané chování vadí jednomu z členů soukromé zprávy (v tom případě je potřeba uvědomit moderátory a předložit důkaz).\n\n*Možné tresty jsou **warny**, pokud jejich počet dosáhne 3 a výše, následuje **mute** (nemůžete psát ani mluvit), v případě hrubého porušení pravidel vás můžeme **vyhodit** nebo vás **zabanovat**.* \n\n*Máte-li pocit, že váš trest byl neadekvátní a moderátoři byli zaujatí/něco přehlédli, založte si prosím ticket v <#797437061043847178> *\n\n***Pokud s pravidly souhlasíte, zareagujte prosím ✅ pod touto zprávou.***\n*(což vám umožní psát do roomek)*\n",
+        "color": "0x9ecfdf",
+        "image": {
+          "url": "https://imgur.com/VnarGJv.png",
+          "height": 0,
+          "width": 0
+        },
+        "footer": {
+          "text": "Sepsal AT Vesmírného Střediska"
+        }
+      }
+    },
+  
+    {
+      "command": "spoluprace",
+      "type": 0,
+      "embed": {
+        "title": "🤝 Spolupráce 🤝",
+        "description": "**Pravidla spolupráce (vzájemná propagace)**\n\nVáš server:\n1. 👪 | Musí mít **min. 150 členů** (čim víc tím líp)!\n2. 🔞 | Nesmí obsahovat **NSFW roomky**!\n3. 👌 | Musí mít slušnou komunitu.\n4. 📃 | **Nesmí porušovat ToS.**\n5. 📌 | Z naší strany při spolupracích **nepingujeme**!\n\n__*Pro žádost o spolupráci si založte ticket v*__ <#797437061043847178>\n\n\n**Pravidla pro připojení do intercomu (multichat <#808339485254746152> )**\n\n1. 📝│Všichni členové konverzace musí dodržovat **pravidla ToS**.\n2. 📁│Je přísně zakázáno **šířit zakázané programy** (Hacky, cheaty, exploity), které mohou porušovat zásady EULY.\n3. 🕵️│**Nabádaní k ubližování** sobě či druhým je přísně zakázáno.\n4. 🚫│Jakákoliv **reklama** je zákázaná!\n5. 🤫│Je zakázáno **spamovat, urážet či mass-pingovat**.\n6. 👮‍♂️│Zveřejňování osobních informací ostatních členů je přísně zakázáno! (GDPR)\n7. 👥│Váš server musí mít **min. 3000 zpráv za měsíc**.\n\n*__Pro ďalší informace kontaktujte__* <@&817828688300474428>\n***Každý server zodpovídá za své členy!***",
+        "color": "0x291535",
+        "image": {
+          "url": "https://imgur.com/lAzguWT.png",
+          "height": 0,
+          "width": 0
+        },
+        "footer": {
+          "text": "Sepsali Lili a HyBomtarax"
+        }
+      }
+    },
+  
+    {
+      "command": "pomoc",
+      "type": 0,
+      "embed": {
+        "title": "✨ Pomoc ✨",
+        "description": "**Nevyznáš se tu?** ➡️ Vytvoř si kanál pro pomoc!\n\n**Něco tu nefunguje?**  ➡️ Vytvoř si kanál pro pomoc!\n\n**Máš zájem o spolupráci?** ➡️ Vytvoř si kanál pro pomoc!\n\n__Zneužití či spam help ticketů se trestá!__\n",
+        "color": "0x3144c3",
+        "image": {
+          "url": "https://imgur.com/bOnSZsX.png",
+          "height": 0,
+          "width": 0
+        },
+        "footer": {
+          "text": "Team helperů Vesmírného Střediska"
+        }
+      }
+    },
+  
+    {
+      "command": "e1",
+      "type": 0,
+      "embed": {
+        "title": "Vesmírné Středisko – Úvod do ekonomiky",
+        "description": "Vítejte ve Vesmírném Středisku, gigantické vesmírné stanici na oběžné dráze naší planety Země. V obrovském městě plném možností, jak si vydělat zdejší měnu, Galaktické dolary. Každý z vás vydělává G$ za zprávy, co píšete, nebo za aktivitu v hlasových kanálech.\n\nChcete-li svůj příjem zvýšit, budete muset investovat do různých projektů které středisko nabízí. Nejen přímo uvnitř této stanice, ale také v otevřeném vesmíru.\n\nProhlédněte si prosím seznam oprávnění, projektů a surovin, které můžete získat a prodávat. Zároveň tu najdete seznam příkazů, kterými můžete ekonomiku ovládat.",
+        "color": "#FF9746",
+        "image": {
+          "url": "https://imgur.com/gZfp1KI.png",
+          "height": 0,
+          "width": 0
+        },
+        "footer": {
+          "text": "Majitel VS – KubaSyr"
+        }
+      }
+    },
+  
+    {
+      "command": "e2",
+      "type": 1,
+      "fieldNum": 7,
+      "embed": {
+        "title": "Oprávnění",
+        "description": "Oprávnění potřebujete, abyste mohli na jednotlivých planetách sluneční soustavy (a v budoucnu i mnohem dál) podnikat a stavět stanice.\n",
+        "fields": {
+            "1": {
+                "title": "🌎 Stanice Země 🌎",
+                "description": "- ID - 101\n- Cena - 200 G$\n- Možnost stavby železáren (těžba železa)\n",
+                "value": true
+            },
+            "2": {
+                "title": "♂️ Mars ♂️",
+                "description": "- ID - 102\n- Cena - 500 G$\n- Možnost zakládání kolonií (vyšší zisk G$ za každou zprávu)\n",
+                "value": true
+            },
+            "3": {
+                "title": "♀️ Venuše ♀️",
+                "description": "- ID - 103\n- Cena - 1 000 G$\n- Možnost stavby sopečných stanic (těžba síry)\n",
+                "value": true
+            },
+            "4": {
+                "title": "☿️ Merkur ☿️",
+                "description": "- ID - 104\n- Cena - 10 000 G$\n- Možnost stavby fotovoltaických elektráren a produkce energie (zisk G$)\n",
+                "value": true
+            },
+            "5": {
+                "title": "♃ Jupiter ♃",
+                "description": "- ID - 105\n- Cena - 50 000 G$\n- Možnost konstrukce vodíkových farem v atmosféře Jupiteru (produkce vodíku)\n",
+                "value": true
+            },
+            "6": {
+                "title": "🪐 Saturn 🪐",
+                "description": "- ID - 106\n- Cena - 100 000 G$\n- Možnost zkoumání prstenců Saturnu (zisk bodů výzkumu)\n",
+                "value": true
+            },
+            "7": {
+                "title": "🌌 NVO zóna 🌌",
+                "description": "- ID - 107\n - Cena - 500 000 G$\n- NVO zóna = neobjevená vesmírná oblast\n- Možnost objevů za hranicemi Sluneční soustavy (velký výnos výzkumu v eventech)\n",
+                "value": true
+            }
+        },
+        "color": "#FF9746",
+        "image": {
+          "url": "https://i.pinimg.com/564x/6f/1c/68/6f1c6866893f94a91ae3bc06ebbbb7aa.jpg",
+          "height": 0,
+          "width": 0
+        },
+        "footer": {
+          "text": "Majitel VS – KubaSyr"
+        }
+      }
+    },
+  
+    {
+      "command": "e3",
+      "type": 1,
+      "fieldNum": 7,
+      "embed": {
+        "title": "Stanice",
+        "description": "Stanice můžete budovat na planetách sluneční soustavy, a některé z nich vám přímo vydělají G$, zatímco jiné vám produkují různé suroviny. Cena další stanice stejného typu se pro Vás zdvojnásobí.\n",
+        "fields": {
+            "1": {
+                "title": "🅿️ Hangár na pronájem 🅿️",
+                "description": "- ID - 200\n- Pronájem hangáru zde ve středisku (není potřeba žádné oprávnění) ti přináší o 0,5 G$ více za každou zprávu.\n- Cena: 100 G$\n",
+                "value": true
+            },
+            "2": {
+                "title": "🏭 Železárna 🏭",
+                "description": "- ID - 201\n- Železárna vyrábí z železných rud železo. Za jednu hodinu ti přibude jedno železo do inventáře.\n- Cena: 200 G$\n",
+                "value": true
+            },
+            "3": {
+                "title": "👨‍👩‍👦 Kolonie 👨‍👩‍👦",
+                "description": "- ID - 202\n- Vytvoření lidské kolonie na Marsu umožňuje finanční podporu od střediska. Kolonie ti přináší o 1 G$ více za každou zprávu.\n- Cena: 500 G$\n",
+                "value": true
+            },
+            "4": {
+                "title": "🌋 Sopečná stanice 🌋",
+                "description": "- ID - 203\n- Sopečné stanice na Venuši ze sopečného materiálu extrahují čistou síru. Za jednu hodinu ti přibude jedna síra do inventáře.\n- Cena: 1 500 G$\n",
+                "value": true
+            },
+            "5": {
+                "title": "🌞 Fotovoltaická elektrárna 🌞",
+                "description": "- ID - 204\n- Vyrobená energie na povrchu Merkuru je okamžitě odkoupena střediskem. Za hodinu si vyděláš 1,25 G$.\n- Cena: 3 000 G$\n",
+                "value": true
+            },
+            "6": {
+                "title": "👨‍🌾 Vodíková farma 👨‍🌾",
+                "description": "- ID - 205\n- Složité technologie umožňují z atmosféry Jupitera odebírat plynný vodík. Za jednu hodinu ti přibude jeden vodík do inventáře.\n- Cena: 6 000 G$\n",
+                "value": true
+            },
+            "7": {
+                "title": "🔬 Výzkumná stanice 🔬",
+                "description": "- ID - 206\n- Zkoumání prstenců Jupitera je střediskem podporováno, proto za hodinu získáš jeden bod výzkumu, který se vám bude hodit ve velkých eventech.\n- Cena: 12 000 G$\n",
+                "value": true
+            }
+        },
+        "color": "#FF9746",
+        "image": {
+          "url": "https://1.bp.blogspot.com/-gxuDSS9UKYo/XDym4hn7U7I/AAAAAAAAAVg/BAjnSj5-W2AY2CTOvNOcAIdJa1pfc6ftgCLcBGAs/s2048/SpaceX%2Bstainless%2Bsteel%2BStarships%2Bat%2BMars%2BBase%2BAlpha%2Bby%2BWilliam%2BFalconer-Beach.jpg",
+          "height": 0,
+          "width": 0
+        },
+        "footer": {
+          "text": "Majitel VS – KubaSyr"
+        }
+      }
+    },
+  
+    {
+      "command": "e4",
+      "type": 1,
+      "fieldNum": 7,
+      "embed": {
+        "title": "Suroviny",
+        "description": "Suroviny lze prodat za G$ nebo pro ně najít využití v rámci eventů či miniher.\n",
+        "fields": {
+          "1": {
+              "title": "G$ Galaktický dolar G$",
+              "description": "- ID - 0\n- Galaktický dolar je univerzální měna střediska, lze si za ní vše koupit, a vaším cílem je vydělat jí co nejvíce.\n",
+              "value": true
+          },
+          "2": {
+              "title": "🍳 Železo 🍳",
+              "description": "- ID - 1\n- Cena prodeje: 1,25 G$\n- Železo je důležitá surovina nejen pro tvůj zisk G$ ale hodí se i pro výroba nábojů pro minihru s droidy, nebo na stavbu čehokoliv v eventech.\n",
+              "value": true
+          },
+          "3": {
+              "title": "🧀 Síra 🧀",
+              "description": "- ID - 2\n- Cena prodeje: 2,5 G$\n- Síra je velmi důležitá v laboratořích střediska, proto ji od tebe vždy odkoupí za dobrou cenu.\n",
+              "value": true
+          },
+          "4": {
+              "title": "💨 Vodík 💨",
+              "description": "- ID - 3\n- Cena prodeje: 3,75 G$\n- Vodík je pro výrobu raketového paliva důležitý. Rozhodni se dobře, zdali ho středisku prodáš nebo si ho uschováš pro sebe. V eventech ho určitě použiješ.\n",
+              "value": true
+          },
+          "5": {
+              "title": "🧪 Výzkum 🧪",
+              "description": "- ID - 4\n- Cena prodeje: 0,1 G$\n- Body výzkumu sice můžeš prodat, ale nedoporučujeme to. Pro zisk nápověd do eventů nebo nějakých zákulisních informací se totiž Výzkum bude rozhodně hodit.\n",
+              "value": true
+          },
+          "6": {
+              "title": "₿ Bitcoin ₿",
+              "description": "- ID - 5\n- Cena prodeje: 2 G$\n- Bitcoiny vyděláváš v početní minihře <#799669870022492240>, můžeš je prodat, ale pozor, v určitých eventech se bude měnit kurz!\n",
+              "value": true
+          },
+          "7": {
+              "title": "🚅 Náboj 🚅",
+              "description": "- ID - 6\n- Tuto položku nelze prodat\n- Náboje se vyrábí ze železa, a můžete s nimi ničit nepřátelské droidy v minihře <#836143999584305152>\n",
+              "value": true
+          }
+      },
+        "color": "#FF9746",
+        "image": {
+          "url": "https://img5.goodfon.com/wallpaper/nbig/f/ac/secret-laboratory-warning-and-control.jpg",
+          "height": 0,
+          "width": 0
+        },
+        "footer": {
+          "text": "Majitel VS – KubaSyr"
+        }
+      }
+    },
+  
+    {
+      "command": "e5",
+      "type": 1,
+      "fieldNum": 2,
+      "embed": {
+        "type": "rich",
+        "title": "Příkazy",
+        "description": "Díky příkazům budete moct vaši ekonomiku ovládat pomocí našeho bota. Zde je jejich seznam. Vždy pracujte s ID čísly jednotlivých položek, ne s jejich názvy. Předpona našeho bota je tečka.\n",
+        "fields": {
+            "1": {
+                "title": "Základní příkazy",
+                "description": "`.pomoc`  zobrazí menu, ve které můžeš najít příkazy a rady k orientaci na serveru\n`.staty` / `.inventář`  seznam položek, které vlastníte + jejich počet ve vašem inventáři\n`.oprávnění`  seznam oprávnění na planety\n`.stanice`  seznam všech existujících stanic\n`.položka {id}`  info o dané položce a její ceně\n`.koupit {id} {množství}`  zakoupí požadované množství položky\n`.prodat {id} {množství}`  prodá požadované množství položky\n",
+                "value": false
+            },
+            "2": {
+                "title": "Speciální příkazy",
+                "description": "`.nabít`  změní jedno železo v náboj, který v #「🔫」droidi můžete střílet po droidech\n",
+                "value": false
+            }
+        },
+        "color": "#FF9746",
+        "image": {
+          "url": "https://i.pinimg.com/originals/c5/c3/1b/c5c31bc6880d91e9e65861f625994315.jpg",
+          "height": 0,
+          "width": 0
+        },
+        "footer": {
+          "text": "Majitel VS – KubaSyr"
+        }
+      }
+    },
+    {
+      "command": "reactionroles",
+      "type": 2,
+      "fieldNum": 6,
+      "embed": {
+        "author": "🆚│Vesmírné Středisko Reaction Roles",
+        "title": "Zareaguj s emotikonem vedle vybrané role pro její získání!",
+        "url": "https://www.youtube.com/watch?v=BTyTjxrEbs0",
+        "description": "<@&863744206409170994> | :tada:\n<@&805448172523487232> | :milky_way:\n<@&863722525271654410> | :performing_arts:\n<@&836593132653117480> | :wrench:\n<@&800820506235895808> | :loud_sound:\n<@&872450460483723264> | :handshake:\n\n**__Roles Informations:__**",
+        "fields": {
+            "1": {
+                "title": ":tada:│Giveaway",
+                "description": "- upozornění na soutěže a giveawaye",
+                "value": false
+            },
+            "2": {
+                "title": ":milky_way: │Novinky z Galaxie",
+                "description": "- upozornění na oznámení týkající se vesmíru a jeho zkoumání",
+                "value": false
+            },
+            "3": {
+                "title": ":performing_arts: | Events",
+                "description": "- upozornění na eventy nebo speciální období, kdy je ekonomika VS pozměněná",
+                "value": false
+            },
+            "4": {
+                "title": ":wrench:| Server updates",
+                "description": "- upozornění na veškeré důležité updaty serveru",
+                "value": false
+            },
+            "5": {
+                "title": ":loud_sound:│Komunikátor",
+                "description": "- tuto roli může kdokoliv označit, chce-li v generalu rozproudit diskuzi třeba nějakou otázkou",
+                "value": false
+            },
+            "6": {
+                "title": ":handshake: | Spolupráce ping",
+                "description": "- upozornění na nové spolupráce se serverem",
+                "value": false
+            }
+        },
+        "color": "#FF9746"
+      }
+    }
+  ]
