@@ -1,0 +1,283 @@
+{
+    "discord":{
+        "bot":{
+            "token": "TOKEN",
+            "prefix": "."
+        },
+        "guild":{
+            "muteRole": "813533083705933865",
+            "usersCountChannel": "771309946150453249",
+            "usersOnlineCountChannel": "771309959261585428",
+            "joinRoom": "564571751992786947",
+            "leaveRoom": "564571814039257089",
+            "helpRoom": "797437061043847178",
+            "helpCategory": "797436955569684540",
+            "helperRole": "768484955382218822",
+            "helpRequestRoom": "797452086273900635",
+            "moderatorRole": "768484958808834068",
+            "newChannelsChannel": "769181665427324948",
+            "usersChannelsCategory": "769181202883936266",
+            "můstekRole": "768484957047750706",
+            "votesChannel": "760228770325200926",
+            "informatorRole": "768484945186127892",
+            "infoChannel": "757243049452503040",
+            "bitcoinGameChannel": "799669870022492240",
+            "droidGameChannel": "836143999584305152"
+        },
+        "fractions": {
+            "terraq": "869914510738206730",
+            "cryptos": "869914744897814540",
+            "umcg": "869914767270219847",
+            "wardens": "869914787193172019",
+            "futura": "869914827567538237",
+            "terraqRoom": "869904321972666389",
+            "cryptosRoom": "869904456052011008",
+            "umcgRoom": "869904491351269407",
+            "wardensRoom": "869904276238004254",
+            "wardensRoomHQ": "869901109471363112",
+            "futuraRoom": "869904520967258193",
+            "wardensHQmessageID": "879847540118405161"
+        },
+        "application":{
+            "clientID": "817875114527031356",
+            "clientSecret": "nH7k3U2Y8mpO-3MG5m9AkqY7CL7DI7sg",
+            "redirectURL": "https://stredisko.space/discordoauth2",
+            "loginPage": "https://discord.com/api/oauth2/authorize?client_id=817875114527031356&redirect_uri=https%3A%2F%2Fstredisko.space%2Fdiscordoauth2&response_type=code&scope=identify%20guilds.join"
+        }
+    },
+    "items":{
+        "0":{
+            "name": "Galaktický dolar",
+            "emoji": "💵",
+            "type": "Měna"
+        },
+        "1":{
+            "name": "Železo",
+            "emoji": "🍳",
+            "type": "Předmět",
+            "sellingPrice": 1.25
+        },
+        "2":{
+            "name": "Síra",
+            "emoji": "🧀",
+            "type": "Předmět",
+            "sellingPrice": 2.5
+        },
+        "3":{
+            "name": "Vodík",
+            "emoji": "💨",
+            "type": "Předmět",
+            "sellingPrice": 3.75
+        },
+        "4":{
+            "name": "Výzkum",
+            "emoji": "🧪",
+            "type": "Předmět",
+            "sellingPrice": 0.1
+        },
+        "5":{
+            "name": "Bitcoin",
+            "emoji": "₿",
+            "type": "Předmět",
+            "sellingPrice": 2
+        },
+        "6":{
+            "name": "Náboj",
+            "emoji": "🚅",
+            "type": "Předmět"
+        },
+        "100":{
+            "name": "Oprávnění Vesmírné Středisko",
+            "emoji": "🎫",
+            "type": "Oprávnění",
+            "price": 0,
+            "station":{
+                "name":"Vesmírné Středisko",
+                "emoji":"🚀"
+            }
+        },
+        "101":{
+            "name": "Oprávnění Země",
+            "emoji": "🎫",
+            "type": "Oprávnění",
+            "price": 200,
+            "station":{
+                "name":"Země",
+                "emoji":"🌍"
+            },
+            "addRole": "768484964119216155"
+        },
+        "102":{
+            "name": "Oprávnění Mars",
+            "emoji": "🎫",
+            "type": "Oprávnění",
+            "price": 500,
+            "station":{
+                "name":"Mars",
+                "emoji":"♂️"
+            },
+            "addRole": "768484949434826753"
+        },
+        "103":{
+            "name": "Oprávnění Venuše",
+            "emoji": "🎫",
+            "type": "Oprávnění",
+            "price": 1000,
+            "station":{
+                "name":"Venuše",
+                "emoji":"♀️"
+            },
+            "addRole": "768484960494682162"
+        },
+        "104":{
+            "name": "Oprávnění Merkur",
+            "emoji": "🎫",
+            "type": "Oprávnění",
+            "price": 10000,
+            "station":{
+                "name":"Merkur",
+                "emoji":"☿️"
+            },
+            "addRole": "768486545623351339"
+        },
+        "105":{
+            "name": "Oprávnění Jupiter",
+            "emoji": "🎫",
+            "type": "Oprávnění",
+            "price": 50000,
+            "station":{
+                "name":"Jupiter",
+                "emoji":"♃"
+            },
+            "addRole": "768484951208493067"
+        },
+        "106":{
+            "name": "Oprávnění Saturn",
+            "emoji": "🎫",
+            "type": "Oprávnění",
+            "price": 100000,
+            "station":{
+                "name":"Saturn",
+                "emoji":"🪐"
+            },
+            "addRole": "768484946011619389"
+        },
+        "107":{
+            "name": "Oprávnění NVO zóna",
+            "emoji": "🎫",
+            "type": "Oprávnění",
+            "price": 500000,
+            "station":{
+                "name":"NVO zóna",
+                "emoji":"🌌"
+            },
+            "addRole": "768484941759119450"
+        },
+        "200":{
+            "name": "Hangár na pronájem",
+            "emoji": "🅿️",
+            "type": "Objekt",
+            "price": 100,
+            "doublePrice": true,
+            "station": 100,
+            "requirements": [100],
+            "addMoneyFromMessage": 1
+        },
+        "201":{
+            "name": "Železárna",
+            "emoji": "🏭",
+            "type": "Objekt",
+            "price": 200,
+            "doublePrice": true,
+            "station": 101,
+            "requirements": [101],
+            "hourlyAdds": [{"id": 1, "count": 1}]
+        },
+        "202":{
+            "name": "Kolonie",
+            "emoji": "👪",
+            "type": "Objekt",
+            "price": 500,
+            "doublePrice": true,
+            "station": 102,
+            "requirements": [102],
+            "addMoneyFromMessage": 2
+        },
+        "203":{
+            "name": "Sopečná stanice",
+            "emoji": "🏭",
+            "type": "Objekt",
+            "price": 1500,
+            "doublePrice": true,
+            "station": 103,
+            "requirements": [103],
+            "hourlyAdds": [{"id": 2, "count": 1}]
+        },
+        "204":{
+            "name": "Fotovoltaická elektrárna",
+            "emoji": "🌞",
+            "type": "Objekt",
+            "price": 3000,
+            "doublePrice": true,
+            "station": 104,
+            "requirements": [104],
+            "hourlyAdds": [{"id": 0, "count": 1.5}]
+        },
+        "205":{
+            "name": "Vodíková farma",
+            "emoji": "👨‍🌾",
+            "type": "Objekt",
+            "price": 6000,
+            "doublePrice": true,
+            "station": 105,
+            "requirements": [105],
+            "hourlyAdds": [{"id": 3, "count": 1}]
+        },
+        "206":{
+            "name": "Výzkumná stanice",
+            "emoji": "🔬",
+            "type": "Objekt",
+            "price": 12000,
+            "doublePrice": true,
+            "station": 106,
+            "requirements": [106],
+            "hourlyAdds": [{"id": 4, "count": 1}]
+        },
+        "1000":{
+            "name": "Pozitivní reakce na pomoc",
+            "emoji": "😊",
+            "type": "Předmět",
+            "doNotShowInItemsOwerview": true
+        },
+        "1001":{
+            "name": "Negativní reakce na pomoc",
+            "emoji": "😞",
+            "type": "Předmět",
+            "doNotShowInItemsOwerview": true
+        }
+    },
+    "twitch":{
+        "application":{
+            "clientID": "CLIENT ID",
+            "authorization": "AUTHORIZATION",
+            "loginPage": "https://id.twitch.tv/oauth2/authorize?client_id=CLIENTID&redirect_uri=REDIRECT&response_type=token"
+        },
+        "bot":{
+            "token": "oauth:TOKEN",
+            "username": "USERNAME",
+            "prefix": "-"
+        },
+        "channel": "CAHNNEL NAME",
+        "channelID": "CLIENT ID"
+    },
+    "colors":{
+        "0": "#0c164f"
+    },
+    "paypal":{
+        "clientID": "CLIENT ID",
+        "clientSecret": "CLIENT SECRET"
+    },
+    "streamlaps":{
+        "token": "TOKEN"
+    }
+}
